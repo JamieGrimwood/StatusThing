@@ -1,0 +1,17 @@
+categories:
+  - Websites:
+    - id: 1
+      type: https
+      name: Example Website
+      url: https://example.com
+    
+    - id: 4
+      type: http
+      name: JMGCoding Dev Website
+      url: http://dev.jmgcoding.com:3000
+
+  - Core Networking:
+    - id: 3
+      type: icmp
+      name: Ping Server
+      hostname: 192.168.1.1
